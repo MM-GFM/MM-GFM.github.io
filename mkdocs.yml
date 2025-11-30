@@ -1,0 +1,5 @@
+site_name: MM-GFM
+theme:
+  name: material
+plugins:
+  - awesome-pages
